@@ -12,7 +12,7 @@ mvn verify
 
 This will compile, run the unit tests, and then run the integration tests.
 
-### Running
+### Running Running
 
 ```shell
 mvn spring-boot:run
